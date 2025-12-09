@@ -8,7 +8,11 @@ This hybrid approach allows for a "Consumer-Grade" chat interface for rapid idea
 ---
 
 ## Quick Start (Execution Guide)
+### QUICK ACCESS LINK (Live Version)
+The public partial/client UI (No advanced settings) is deployed on Vercel and accessible here:
+**https://lyria-studio.vercel.app/**
 
+# Local
 To run the full suite, you need 3 separate terminals running concurrently.
 
 ### Terminal 1: The Backend Core (API)
